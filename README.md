@@ -97,7 +97,7 @@ $ npm i
     "verbose": false,
     "dns": "https://cloudflare-dns.com/dns-query",
     "remote_address": "ws://<your-app>.herokuapp.com/",
-    "remote_port": 80,
+    "remote_port": 443,
     "local_address": "127.0.0.1",
     "local_port": 8787,
     "timeout": 5000,
