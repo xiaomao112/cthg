@@ -6,6 +6,6 @@
     "local_address": "127.0.0.1",
     "local_port": 8787,
     "timeout": 5000,
-    "password": "secret",
+    "password": "AHir72afbLK5E3IO690cgfWYDZTRChvVM4JX",
     "method": "aes-256-gcm"
 }
